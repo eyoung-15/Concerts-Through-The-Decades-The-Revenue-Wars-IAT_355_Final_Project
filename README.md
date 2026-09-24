@@ -1,4 +1,4 @@
-**Concerts Through the Decades: The Revenue Wars - Interactive Data Visualization Web Application**
+# Concerts Through the Decades: The Revenue Wars - Interactive Data Visualization Web Application
 
 **Introduction to Visual Analytics (IAT 355) — Simon Fraser University**
 
